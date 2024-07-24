@@ -11,11 +11,11 @@ This repository contains automated scripts and guides to ensure compliance with 
 
 Caveat 1: This script only covered the automated assessment status.
 
-Caveat 2: There are some missing automated assessment status item which are
-          * Ensure firewalld default zone is set
-          * Ensure nftables rules are permanent
-          * Ensure iptables rules are saved
-          * Ensure authselect includes with-faillock
+Caveat 2: There are some missing automated assessment status item which are:
+* Ensure firewalld default zone is set
+* Ensure nftables rules are permanent
+* Ensure iptables rules are saved
+* Ensure authselect includes with-faillock
 
 # Prerequisites
 Before running the scripts, ensure the following:
