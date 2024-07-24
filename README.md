@@ -10,6 +10,7 @@ This repository contains automated scripts and guides to ensure compliance with 
 6. System Maintenance
 
 Caveat 1: This script only covered the automated assessment status.
+
 Caveat 2: There are some missing automated assessment status item which are
           - Ensure firewalld default zone is set
           - Ensure nftables rules are permanent
@@ -23,7 +24,7 @@ Before running the scripts, ensure the following:
 * You have root or sudo access to the server.
 * A wired network connection is enabled.
 
-Usage
+# Usage
 cd cis-benchmark-centOS-8
 
 sudo ./script.sh
