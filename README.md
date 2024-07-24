@@ -1,5 +1,5 @@
 # cis-benchmark-centOS-8
-This repository contains automated scripts and guides to ensure compliance with the Center for Internet Security (CIS) benchmarks for hardening CentOS 8 servers at Level 1 - Server.
+This repository contains automated scripts and guides to ensure compliance with the Center for Internet Security (CIS) benchmarks for hardening CentOS 8 servers at Level 1 - Server based on V2.0.0 benchmark.
 
 # CIS Level 1 Server Benchmarks Covered
 1. Initial Setup
